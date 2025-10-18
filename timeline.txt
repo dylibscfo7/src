@@ -1,0 +1,2 @@
+# Daily Notes
+Run deep static analysis across entire codebase
