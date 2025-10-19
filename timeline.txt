@@ -1,3 +1,4 @@
 # Daily Notes
 Run deep static analysis across entire codebase
 Configure read replicas for scaling read-heavy workloads
+Implement debouncing for all rapid user input fields
