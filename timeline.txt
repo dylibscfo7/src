@@ -1,2 +1,3 @@
 # Daily Notes
 Run deep static analysis across entire codebase
+Configure read replicas for scaling read-heavy workloads
